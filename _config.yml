@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Chintan Patel"
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   bio              : "Theoretical physics nerd"
   location         : "Mumbai"
   employer         : "Tata Institute of Fundamental Research"
@@ -104,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/chintan-patel-22b569152?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgyskNlgkSxOh7Q8nK1xebw%3D%3D"
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
